@@ -83,3 +83,4 @@ Each segment includes:
 
 ---
 
+Built a Python-based sales intelligence dashboard that highlights peak days, top cities, best-selling products, and customer categories using visual analytics and clustering techniques."
